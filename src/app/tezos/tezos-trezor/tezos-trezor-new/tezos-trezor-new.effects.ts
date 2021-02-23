@@ -39,6 +39,7 @@ export class TezosTrezorNewEffects {
                         { path: "m/44'/1729'/3'", showOnTrezor: false },
                         { path: "m/44'/1729'/4'", showOnTrezor: false },
                         { path: "m/44'/1729'/0'/0'", showOnTrezor: false },
+                        { path: "m/44'/1729'/0'/1'", showOnTrezor: false },
                     ]
                 }))
             ),
